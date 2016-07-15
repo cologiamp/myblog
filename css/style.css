@@ -1,0 +1,138 @@
+@font-face {
+  font-family: myFontLight;
+  src: url(./fonts/Ubuntu-L.ttf);
+}
+
+@font-face {
+  font-family: myFontRegular;
+  src: url(./fonts/Ubuntu-R.ttf);
+}
+
+@font-face {
+  font-family: myFontMedium;
+  src: url(./fonts/Ubuntu-M.ttf);
+}
+
+@font-face {
+  font-family: myFontBold;
+  src: url(./fonts/Ubuntu-B.ttf);
+}
+
+body {
+  font-family: myFontLight;
+  font-size: 15px;
+}
+
+h1 {
+  font-family: myFontBold;
+}
+
+p {
+  line-height: 30px;
+}
+
+a {
+  color: #dd4814;
+}
+
+a:link, a:visited {
+  color: #dd4814;
+}
+
+.navbar {
+  position: relative;
+  min-height: 50px;
+  margin-bottom: 20px;
+  background-color: white;
+}
+@media (min-width: 768px) {
+  .navbar {
+    border-radius: 0px;
+  }
+}
+.navbar-default .navbar-brand {
+  color: #777;
+}
+.navbar-brand {
+  font-size: 21px;
+  font-family: myFontMedium;
+}
+.navbar-brand:hover,
+.navbar-brand:focus {
+  text-decoration: underline;
+}
+
+article > h3 {
+  font-family: myFontRegular;
+}
+
+.date {
+  font-family: myFontRegular;
+  font-size: 17px;
+  color: #a1a1a1;
+}
+
+.breadcrumb {
+  background-color: black;
+  margin-bottom: 10px;
+}
+
+.white-bg {
+  background-color: white;
+}
+
+article > p {
+  font-family: myFontMedium;
+  line-height: 25px;
+}
+
+.centeraligned {
+  margin-top: 50px;
+  text-align: center;
+}
+
+.profile-img {
+  width: 90px;
+  height: 90px;
+}
+
+.subtitle {
+  margin-top: -15px;
+  margin-bottom: 15px;
+  color: grey;
+  font-size: 12px;
+  font-family: myFontMedium;
+}
+
+footer {
+  margin-top: 50px;
+  border-top: 1px solid black;
+  font-size: 14px;
+  min-height: 180px;
+  color: grey;
+}
+
+footer p {
+  line-height: 10px; 
+}
+
+.job-title {
+  font-size: 16px;
+}
+
+.job-subtitle {
+  font-size: 12px;
+  color: #a4a4a4;
+  letter-spacing: -1px;
+  margin-left: 8px;
+}
+
+.footer-header {
+  min-height: 50px;
+  color: black;
+}
+
+.footer-text {
+  font-family: Helvetica, Arial, sans-serif;
+  color: #8c8c8c;
+}

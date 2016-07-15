@@ -1,0 +1,29 @@
+<img class="profile-img" src="./css/img/profile.png"/>
+
+<h1>Hi! I'm Ignacio.</h1>
+
+<p class="subtitle">Founder of NetPry Co.</p>
+
+<p>I'm a software developer from Tucuman, Argentina.</p>
+
+<p>I work with PHP, Javascript, MySQL</p>
+
+<p>Contac me at <a href="mailto: colo92@gmail.com">colo92@gmail.com</a></p>
+
+
+<div class="col-lg-6">
+	<h2>Posts</h2>
+</div>
+
+
+<div class="col-lg-6">
+
+	<h2>Projects</h2>
+	
+	<p ng-repeat="project in projects">
+		<a href="#/projects/{{projects.indexOf(project)}}">{{ project.title }}</a>
+	</p>
+
+</div>
+
+
