@@ -92,8 +92,8 @@ article > p {
 }
 
 .profile-img {
-  width: 90px;
-  height: 90px;
+  width: 110px;
+  height: 110px;
 }
 
 .subtitle {
@@ -106,7 +106,7 @@ article > p {
 
 footer {
   margin-top: 50px;
-  border-top: 1px solid black;
+  border-top: 1px solid #b3b3b3;
   font-size: 14px;
   min-height: 180px;
   color: grey;
