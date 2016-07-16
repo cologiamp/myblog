@@ -136,3 +136,8 @@ footer p {
   font-family: Helvetica, Arial, sans-serif;
   color: #8c8c8c;
 }
+
+.company-link {
+  text-decoration: none !important;
+  color: grey !important;
+}

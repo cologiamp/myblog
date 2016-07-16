@@ -1,26 +1,26 @@
 [
 	{
-	"title" : "NetPry - Connecting the world",
+	"title" : "Netpry.com - Connecting the world",
 	"usedTechs" : "",
 	"content" : ""
 	},
 	{
-	"title" : "Tuxam - Image Hosting",
+	"title" : "Tuxam.com - Free Image Hosting",
 	"usedTechs" : "",
 	"content" : ""
 	},
 	{
-	"title" : "Vo-ve - Digital Newspaper",
+	"title" : "Vo-ve.com - Digital Newspaper",
 	"usedTechs" : "",
-	"content" : ""
-	},
-	{
-	"title" : "Photobox - MiniStudio",
-	"usedTechs" : "",
-	"content" : ""
+	"content" : "Vo-Ve.com is a digital daily local news “paper” with a specific focus on the interaction with the reader. The design engages the reader on desktop and mobile apps with highly graphical, clear content."
 	},
 	{
 	"title" : "La Guia Movil",
+	"usedTechs" : "",
+	"content" : "LGM is an Application that gives users the ability to search by category or geographically to find businesses and contact them by phone, email, social networks, websites, etc. This App allows the user to obtain information about the business such as opening hours, payment methods, universal accessibility, and parking among others. In addition, we created a web platform for businesses could adhere and to register, and include a quick and simple access to useful sites for users."
+	},
+	{
+	"title" : "Photobox - MiniStudio",
 	"usedTechs" : "",
 	"content" : ""
 	}
