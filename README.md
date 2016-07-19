@@ -1,3 +1,3 @@
 # myblog
 
-Ignacio Giampaoli's blog. Developed with HTML5, AngularJS, Bootstrap and enthusiasm.
+Ignacio Giampaoli's (me) blog. Developed with HTML5, AngularJS, Bootstrap and enthusiasm.
